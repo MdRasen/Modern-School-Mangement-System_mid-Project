@@ -1,0 +1,4 @@
+admin|admin|Admin|admin@gmail.com|12345678910|1999-07-25|male|Moghbazar, Dhaka|admin|admin|unverified
+admin|MdRasen|Mohammad Rasen|aamin.hossen99@gmail.com|8596741425|2022-03-01|male|Romna|123|123|unverified
+admin|rafy420|Al Rafy|rafy@gmail.com|12345678901|2022-03-07|female|sfdfsf|123|123|unverified
+admin|abc|Arif Sadi|sadi@gmail.com|78965432110|2022-03-03|male|Puran Dhaka|123|123|unverified
